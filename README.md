@@ -1,6 +1,6 @@
 # Occluded_Object_Detection_for_AVs
 
-This is the code of occluded object detection using the Yolov5 model on a novel dataset prepared by us. The code includes implementation of our implementation of an LSTM and GRU model. The dataset used is our enhanced version of the ERCOT (Electric Reliability Council of Texas) dataset focused on the West region.
+This is the code of occluded object detection using the Yolov5 model on a novel dataset prepared by us.
 
 Here is a link to the eventual paper published in IEEE on an updated code and dataset: https://ieeexplore.ieee.org/abstract/document/9946565
 
