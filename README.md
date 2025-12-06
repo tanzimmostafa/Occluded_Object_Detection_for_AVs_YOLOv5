@@ -1,6 +1,6 @@
 # Occluded_Object_Detection_for_AVs
 
-This repository contains the code of occluded object detection using the Yolov5 model on a novel dataset prepared by us.
+This repository contains the code of occluded object detection using the YOLOv5 model on a novel dataset prepared by us.
 
 * **Link to the eventual paper published in IEEE on an updated version of the code and dataset:** https://ieeexplore.ieee.org/abstract/document/9946565
 * **Link to the updated dataset on Kaggle:** https://www.kaggle.com/datasets/tanzimmostafa14/dhaka-occluded-objects-dataset/data
