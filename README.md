@@ -1,4 +1,4 @@
-# Occluded_Object_Detection_for_AVs
+# Occluded Object Detection for Autonomous Vehicles using YOLOv5
 
 This repository contains the code of occluded object detection using the YOLOv5 model on a novel dataset prepared by us.
 
